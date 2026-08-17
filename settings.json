@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        
-        
+        "I'm a regular player",
+        "I'll play"
       ]
     },
     "chat-log": true,
